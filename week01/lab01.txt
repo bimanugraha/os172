@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 ahmad.bima StafCS 4096 Sep  9 07:43 .
+drwx--x--x  4 ahmad.bima StafCS 4096 Sep  9 07:31 ..
+drwxr-xr-x  8 ahmad.bima StafCS 4096 Sep  9 07:36 .git
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:10 key
+-rw-r--r--  1 ahmad.bima StafCS    0 Sep  9 07:43 lab01.txt
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:09 log
+-rw-r--r--  1 ahmad.bima StafCS    7 Sep  9 06:47 README.md
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:18 sandbox
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:35 week00
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:06 week01
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:07 week02
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:07 week03
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:07 week04
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:08 week05
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:08 week06
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:08 week07
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:09 week08
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:09 week09
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:09 week10
+drwxr-xr-x  2 ahmad.bima StafCS 4096 Sep  9 07:10 xtra
+/home/fasilkom/mahasiswa/a/ahmad.bima/os172/week01
