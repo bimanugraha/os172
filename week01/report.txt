@@ -1,0 +1,1 @@
+we're trying to learn to CLI, GIT and Scripting. Push and Pull on GIT also included
