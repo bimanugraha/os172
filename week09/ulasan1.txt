@@ -1,1 +1,6 @@
-﻿Menurut pendapat saya, video ini dapat mudah mengerti dengan jelas dan menggambarkan kita arti yang jelas mengenai Public Key dan Private Key. Video tersebut juga terdapat banyak visualisasi yang dapat memudahkan kita mengerti lebih dalam mengenai enkripsi dan dekripsi. Enkripsi dan dekripsi ini berguna di jaman sekarang agar seluruh data kita aman dan kita juga lebih yakin untuk bertukar data di dunia maya. Oleh karena komputer terus berkembang, dikedepannya kita dapat bisa menemukan cara baru untuk melakukan enkripsi dan dekripsi
+﻿GITHUB Account: bimanugraha
+URL Ulasan: http://bmnugraha.blogspot.co.id/2017/12/the-internet-encryption-public-keys.html
+URL Youtube: https://youtu.be/ZghMPWGXexs
+Pemetaan: Week02
+Revisi Pertama: 1 Desember 2017
+Revisi Terahir: 1 Desember 2017
