@@ -1,0 +1,4 @@
+w02-170912-16-LR-About :Class Session about BIOS,Loader,SystemD and I/O
+w02-170914-16-LR-About :Class Session about C language, Reiterate about if else, for else, for loop
+w02-170915-18-PS-About :Lab Session about C, Sign and Encryption
+w02-170915-18-DS-About :Re-Session W02 with Amira via Line

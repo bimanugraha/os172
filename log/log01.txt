@@ -1,0 +1,5 @@
+w01-170904-11-LR-About : Looking up for week01 and theoryeory
+w01-170904-11-PS-About : Lab Session about CLI, GIT AND SCRIPTING
+w01-170905-16-LR-About : Class Session about Protection and Security
+w01-170907-16-LR-About : Class Session about W02Scripting-2 and W02Scripting-3
+w01-170909-18-DS-About : Re-Session about SCRIPTING with Amira via Line

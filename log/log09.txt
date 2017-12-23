@@ -1,0 +1,8 @@
+w09-171121-11-LR-About :Learning about block-chain
+w09-171121-11-LR-About :Learning about cloud computing
+w09-171121-16-LR-About :Class Session File System & Persistent Storage
+w09-171123-16-LR-About :Class Session File System & Persistent Storage
+w09-171128-16-DS-About :Class Session File System & Persistent Storage
+w09-171130-16-DS-About :Class Session File System & Persistent Storage
+w09-171130-12-DS-About :Re-Session W09 with Amira via Line
+w09-171130-12-PS-About :Lab Session Creating Blog

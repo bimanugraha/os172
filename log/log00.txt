@@ -1,0 +1,4 @@
+w00-170831-16-LR-About :Class Session Introduction from Dosen
+w00-170830-14-PS-About :Lab Session Login to badak
+w00-170830-14-PS-About :Lab Session Create Github Account
+w00-170830-17-DS-About :Re-Session about Badak/Server with Amira via Line

@@ -1,0 +1,6 @@
+w08-171114-16-LR-About :Class Session about Scheduling
+w08-171116-16-LR-About :Class Session about Scheduling
+w08-171114-17-DS-About :Class Session Exercise Scheduling
+w08-171116-16-DS-About :Class Session Exercise Scheduling
+w08-171117-12-DS-About :Re-Session W08 with Amira via Line
+w08-171117-12-PS-About :Lab Session about Scheduling

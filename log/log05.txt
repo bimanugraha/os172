@@ -1,0 +1,5 @@
+w05-171007-11-PS-About :Lab Session Memory
+w05-171010-16-LR-About :Class Session about Memory
+w05-171012-16-PS-About :Quiz session 2
+w05-171007-12-DS-About :Re-Session W05 with Amira via Line
+w05-171012-17-PS-About :Finished Lab Session Memory
